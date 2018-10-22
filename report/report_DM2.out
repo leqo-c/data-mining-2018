@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduzione}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{IBM stocks dataset}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{UCI Abalone dataset}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Time series}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Autocorrelazione}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Stazionariet\340}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Clustering}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Clustering con DBSCAN}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Clustering con K-means}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Clustering tramite feature-extraction}{subsection.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.4}{Conclusioni}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Sequential Patterns}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Sequential Patterns con discretizzazione posticipata}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Conclusioni}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Classificazione}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Preprocessamento del dataset}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Classificazione con Na\357ve-Bayes}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{Classificazione con SVM}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Classificazione con Rete Neurale}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.5}{Classificazione con Bagging}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.6}{Classificazione con Boosting}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Outlier Detection}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Outlier detection tramite Local Outlier Factor \(LOF\)}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.2}{Outlier detection tramite DB\(,\) \(DBSCAN\)}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.3}{Outlier detection con approccio depth-based}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.4}{Conclusioni}{section.5}% 26
