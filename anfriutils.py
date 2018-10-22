@@ -36,4 +36,5 @@ def occurrences(seq, pattern):
 
 	seq_list = [val for val in seq]
 	occs = [(i, i+len(pattern)) for i in range( len(seq_list) ) if seq_list[i:i+len(pattern)] == pattern]
+	
 	return occs 
