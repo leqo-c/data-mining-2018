@@ -1,3 +1,4 @@
+# anfri utils
 
 def SPMFin_to_list(filename):
     import numpy as np
