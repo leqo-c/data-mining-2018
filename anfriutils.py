@@ -16,6 +16,7 @@ def SPMFin_to_list(filename):
 
     return l
             
+<<<<<<< HEAD
 # test branch1
 def SPMFout_to_list(filename, reverse=True):
     import re
