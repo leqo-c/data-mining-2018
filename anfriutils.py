@@ -16,7 +16,7 @@ def SPMFin_to_list(filename):
 
     return l
             
-# tortoise git test
+# test branch1
 def SPMFout_to_list(filename, reverse=True):
     import re
     
