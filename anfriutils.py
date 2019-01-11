@@ -16,7 +16,7 @@ def SPMFin_to_list(filename):
 
     return l
             
-
+# GitHub desktop: test modifica
 def SPMFout_to_list(filename, reverse=True):
     import re
     
