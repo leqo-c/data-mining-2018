@@ -16,7 +16,11 @@ def SPMFin_to_list(filename):
 
     return l
             
-# GitHub desktop: test branch
+<<<<<<< HEAD
+# test branch1
+=======
+# test branch1
+>>>>>>> branch2
 def SPMFout_to_list(filename, reverse=True):
     import re
     
